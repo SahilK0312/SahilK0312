@@ -174,3 +174,11 @@ Public contributions may look limited, but I actively work on private production
 - Improving backend API architecture
 - Learning better system design and deployment workflows
 - Building reusable UI components and packages
+
+# 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilK0312/SahilK0312/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilK0312/SahilK0312/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SahilK0312/SahilK0312/output/github-contribution-grid-snake.svg">
+</picture>
