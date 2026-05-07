@@ -16,12 +16,12 @@ I am a Flutter developer focused on building scalable mobile applications, admin
 
 ---
 
-## 🎯 Highlights 
+## 🎯 Highlights
 
-- **5+ Production Apps** deployed with real user base 
-- **Lead 10+ Complex Projects** across mobile, backend, and admin 
-- **10K+ Daily Active Users** managed across platforms 
-- **Expert in Flutter** with advanced state management & Firebase integration
+- Built and contributed to multiple production-grade applications
+- Worked across mobile apps, admin panels, CRM systems, and backend platforms
+- Experienced with real-world users, business workflows, and scalable app architecture
+- Strong in Flutter, Firebase, REST APIs, Node.js, and MongoDB
 
 ---
 
@@ -175,6 +175,8 @@ Public contributions may look limited, but I actively work on private production
 - Learning better system design and deployment workflows
 - Building reusable UI components and packages
 
+---
+
 # 🐍 Contribution Snake
 
 <picture>
@@ -182,3 +184,12 @@ Public contributions may look limited, but I actively work on private production
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilK0312/SahilK0312/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SahilK0312/SahilK0312/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/SahilK0312
+- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+- Portfolio: Coming Soon
+- Email: your-email@example.com
