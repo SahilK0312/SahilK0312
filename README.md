@@ -16,6 +16,15 @@ I am a Flutter developer focused on building scalable mobile applications, admin
 
 ---
 
+## 🎯 Highlights 
+
+- **5+ Production Apps** deployed with real user base 
+- **Lead 10+ Complex Projects** across mobile, backend, and admin 
+- **10K+ Daily Active Users** managed across platforms 
+- **Expert in Flutter** with advanced state management & Firebase integration
+
+---
+
 ## 🛠 Tech Stack
 
 ### Mobile Development
