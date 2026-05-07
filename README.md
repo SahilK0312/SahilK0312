@@ -190,6 +190,6 @@ Public contributions may look limited, but I actively work on private production
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/SahilK0312
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
-- Portfolio: Coming Soon
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/sahil-khatri-b545971b7/
+- Email: sahilkhatri312@gmail.com
+- Location: Ahmedabad, India
