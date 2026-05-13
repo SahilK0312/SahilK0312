@@ -546,7 +546,6 @@ Although public repositories may be limited, my contribution graph reflects cont
 
 # 👨‍💼 Open To
 
-- Full-Time Flutter Developer Roles
 - Mobile App Development Projects
 - Backend-Integrated Flutter Applications
 - CRM, Marketplace, Care Platform, and Business App Development
