@@ -559,6 +559,7 @@ Although public repositories may be limited, my contribution graph reflects cont
 - GitHub: https://github.com/SahilK0312
 - LinkedIn: https://www.linkedin.com/in/sahil-khatri-b545971b7/
 - Email: sahilkhatri312@gmail.com
+- Portfolio: https://sahilk0312.github.io/sahil-portfolio/
 - Location: Ahmedabad, India
 
 ---
