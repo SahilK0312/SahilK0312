@@ -2,7 +2,7 @@
 
 ## Flutter Developer | 4+ Years Experience | Firebase | REST APIs | Scalable Mobile Apps
 
-I am a Flutter Developer from Ahmedabad, India with **3.5+ years of experience** in building scalable, high-performance mobile applications.
+I am a Flutter Developer from Ahmedabad, India with **4+ years of experience** in building scalable, high-performance mobile applications.
 
 I have hands-on experience with **Flutter, Dart, Riverpod, GetX, Firebase, Supabase, REST APIs, push notifications, social login, payment gateway integrations, Agora live streaming, real-time features, and AI-assisted development workflows**.
 
