@@ -12,7 +12,7 @@ Most of my production work is maintained in private repositories due to client/c
 
 ## 🎯 Highlights
 
-- 🚀 3.5+ years of experience in Flutter mobile app development
+- 🚀 4+ years of experience in Flutter mobile app development
 - 📱 Built and contributed to multiple production-grade mobile applications
 - ⚡ Improved application performance through optimization, debugging, and scalable architecture practices
 - 🔥 Experienced with Firebase, Supabase, REST APIs, push notifications, and real-time features
